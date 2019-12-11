@@ -1,1 +1,3 @@
-dodaje losowy ciag znaków
+dodaje losowy ciag znakï¿½w
+
+zmieniam julimat pierwszy plik
