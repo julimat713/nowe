@@ -1,1 +1,2 @@
 dodaje losowy ciag znaków
+zmiana pierwszego
